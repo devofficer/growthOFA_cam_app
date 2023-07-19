@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GrowthOFA</string>
+    <string name="app_title">GrowthOFA Fake Cam</string>
+    <string name="button_start_stream_title">Start your stream</string>
+</resources>
